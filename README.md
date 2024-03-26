@@ -12,7 +12,7 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rakesh-das-639541bb/">
+  <a href="https://www.linkedin.com/in/rakesh-arnold-das-bb-28-ds/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
